@@ -10,7 +10,7 @@ from bpy.props import (
 
 bl_info = {
     "name": "ripple mesh maker",
-    "author": "mocchi",
+    "author": "K-mocchi",
     "version": (1, 0),
     "blender": (2, 80, 0),
     "location": "3Dviewport > Add > Mesh",
